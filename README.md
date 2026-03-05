@@ -58,7 +58,7 @@ API REST desenvolvida com **Node.js, Express e Prisma**, integrada à FakeStore 
 
 ---
 
-### ✅ Task Manager API
+### ✅ Task Manager WebApp
 Aplicação Web para gerenciamento de tarefas com autenticação de usuários.
 
 **Tecnologias utilizadas:**
