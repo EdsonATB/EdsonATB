@@ -12,7 +12,7 @@ Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluç
 - **🗄️ Banco de Dados:** PostgreSQL, Oracle
 - **⚙️ Frameworks/Libs:** Express, Prisma, React, Vue
 - **🛠️ Ferramentas:** Docker, Git, JWT
-- **📦 Outros:** APIs REST, JWT, Arquitetura em Camadas
+- **📦 Outros:** APIs REST, Arquitetura em Camadas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
