@@ -45,7 +45,7 @@ Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluç
 
 ## 📌 Projetos Relevantes
 
-### 🛒 E-Commerce API
+### 🛒 [E-Commerce API](https://github.com/EdsonATB/ecommerce-technical-challenge)
 API REST desenvolvida com **Node.js, Express e Prisma**, integrada à FakeStore API.
 
 **Tecnologias utilizadas:**
@@ -58,7 +58,7 @@ API REST desenvolvida com **Node.js, Express e Prisma**, integrada à FakeStore 
 
 ---
 
-### ✅ Task Manager WebApp
+### ✅ [Task Manager WebApp](https://github.com/EdsonATB/todo-app-nodejs)
 Aplicação Web para gerenciamento de tarefas com autenticação de usuários.
 
 **Tecnologias utilizadas:**
@@ -71,7 +71,7 @@ Aplicação Web para gerenciamento de tarefas com autenticação de usuários.
 
 ---
 
-### 💬 Comment Gauge
+### 💬 [Comment Gauge](https://github.com/Gabriel-Cruz-Araujo/AnDS)
 Ferramenta de análise de sentimentos em comentários do YouTube utilizando NLP.
 
 **Tecnologias utilizadas:**
