@@ -71,7 +71,7 @@ Aplicação Web para gerenciamento de tarefas com autenticação de usuários.
 
 ---
 
-### 💬 [Comment Gauge](https://github.com/Gabriel-Cruz-Araujo/AnDS)
+### 💬 Comment Gauge
 Ferramenta de análise de sentimentos em comentários do YouTube utilizando NLP.
 
 **Tecnologias utilizadas:**
