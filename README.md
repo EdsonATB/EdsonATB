@@ -8,32 +8,20 @@ Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluç
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 📊 Dados & BI
-- Python
-- Pandas
-- SQL
-- Power BI
+<div align="center">
 
-### ⚙️ Back-end
-- Node.js
-- TypeScript
-- JavaScript
-- Express
-- Prisma
-- APIs REST
-- PostgreSQL
+| 📊 Dados & BI | ⚙️ Back-end | 🛠️ Ferramentas & Outros |
+|---|---|---|
+| Python | Node.js | Git |
+| Pandas | TypeScript | Docker |
+| SQL | JavaScript | AWS |
+| Power BI | Express | JWT |
+| ETL | Prisma | React |
+| PostgreSQL | APIs REST | Vue |
+|  |  | C# |
+|  |  | ASP.NET MVC |
 
-### 🛠️ Ferramentas & Outros
-- Git
-- Docker
-- AWS
-- JWT
-- React
-- Vue
-- C#
-- ASP.NET MVC
-
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -48,7 +36,7 @@ Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluç
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
+</div>
 ---
 
 ## 💼 Experiência
