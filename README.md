@@ -2,42 +2,10 @@
 
 Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluções backend. Busco constantemente aprender novas ferramentas e aplicar meus conhecimentos em projetos práticos.
 
-👨‍💻 Atualmente focado em **Dados & BI, Python, SQL e Análise de Dados**, sem deixar de lado minha experiência com desenvolvimento backend.
-
 ---
 
-## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
 
-| 📊 Dados & BI | ⚙️ Back-end | 🛠️ Ferramentas & Outros |
-|---|---|---|
-| Python | Node.js | Git |
-| Pandas | TypeScript | Docker |
-| SQL | JavaScript | AWS |
-| Power BI | Express | JWT |
-| ETL | Prisma | React |
-| PostgreSQL | APIs REST | Vue |
-|  |  | C# |
-|  |  | ASP.NET MVC |
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-</div>
----
 
 ## 💼 Experiência
 
