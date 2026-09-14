@@ -24,18 +24,6 @@ Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluç
 
 ## 📌 Projetos Relevantes
 
-### ⚽ [Pipeline ETL e Análise de Dados FIFA](https://github.com/EdsonATB/Fifa-ETL)
-Pipeline ETL utilizando dados de jogadores da FIFA, realizando extração, tratamento e padronização de dados, carga em banco de dados e criação de dashboards interativos no Power BI para análise de métricas e insights sobre desempenho e valor de mercado dos jogadores.
-
-**Tecnologias utilizadas:**
-- Python
-- Pandas
-- SQL
-- PostgreSQL
-- Power BI
-- ETL
-
----
 
 ### 🛒 [E-Commerce API](https://github.com/EdsonATB/ecommerce-technical-challenge)
 API REST desenvolvida com Node.js, Express e Prisma, integrada à FakeStore API, utilizando PostgreSQL para persistência de dados.
@@ -60,6 +48,19 @@ Aplicação para gerenciamento de tarefas com autenticação JWT, controle de us
 - PostgreSQL
 - JWT
 - Docker
+
+---
+
+### ⚽ [Pipeline ETL e Análise de Dados FIFA](https://github.com/EdsonATB/Fifa-ETL)
+Pipeline ETL utilizando dados de jogadores da FIFA, realizando extração, tratamento e padronização de dados, carga em banco de dados e criação de dashboards interativos no Power BI para análise de métricas e insights sobre desempenho e valor de mercado dos jogadores.
+
+**Tecnologias utilizadas:**
+- Python
+- Pandas
+- SQL
+- PostgreSQL
+- Power BI
+- ETL
 
 ---
 
