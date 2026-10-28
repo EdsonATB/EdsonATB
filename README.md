@@ -1,101 +1,81 @@
 # 👋 Olá, eu sou Edson Augusto!
 
-Sou desenvolvedor com interesse em tecnologia, dados e desenvolvimento de soluções backend. Busco constantemente aprender novas ferramentas e aplicar meus conhecimentos em projetos práticos.
+Desenvolvedor back-end com foco em **C# e .NET**, formado em Ciência da Computação (UNIT), Técnico em Desenvolvimento de Sistemas (SENAI) e cursando Análise e Desenvolvimento de Sistemas (Estácio).
+
+Desenvolvo APIs REST com **ASP.NET Core** e **Entity Framework Core**, com arquitetura em camadas, autenticação JWT e testes automatizados. Antes disso, passei 2 anos trabalhando com SQL e integridade de dados na SEDUC/SE.
+
+📍 Aracaju, Sergipe, Brasil
 
 ---
 
+## 🛠️ Tecnologias
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
+## ⭐ Projetos
+
+### 🍳 [Recipe Book API](https://github.com/EdsonATB/recipe-book)
+
+API REST de livro de receitas em **C# e .NET 10** (em desenvolvimento).
+
+- Arquitetura em camadas (Domain, Application, Infrastructure e API), com casos de uso, injeção de dependência e Unit of Work
+- Autenticação com JWT e hash de senha Argon2id
+- Mais de 50 testes automatizados (unitários, de validação e de integração com **Testcontainers**)
+- Pipeline de CI no GitHub Actions, com relatório de cobertura de código
+
+**Tecnologias:** ASP.NET Core · Entity Framework Core · MySQL · FluentValidation · FluentMigrator · xUnit · Moq · Swagger
+
+### 🛒 [E-Commerce API](https://github.com/EdsonATB/ecommerce-technical-challenge)
+
+API REST desenvolvida com Node.js, Express e Prisma, integrada à FakeStore API, utilizando PostgreSQL para persistência de dados.
+
+**Tecnologias:** Node.js · TypeScript · Express · Prisma · PostgreSQL · Docker
+
+### ✅ [Task Manager WebApp](https://github.com/EdsonATB/todo-app-nodejs)
+
+Aplicação para gerenciamento de tarefas com autenticação JWT, controle de usuários e persistência em PostgreSQL.
+
+**Tecnologias:** Node.js · Express · Prisma · PostgreSQL · JWT · Docker
+
+### 💬 Comment Gauge
+
+Ferramenta de análise de sentimentos em comentários do YouTube utilizando NLP.
+
+**Tecnologias:** Python · Streamlit · Transformers (Hugging Face) · Torch · Pandas · Matplotlib · YouTube Data API
+
+---
 
 ## 💼 Experiência
 
-### 📍 Estágio — Serviço de Informações e Estatísticas (SEDUC/SE)
+**Estágio – Analista de Dados** · Serviço de Informações e Estatísticas (SEDUC/SE) · 04/2023 – 04/2025
 
-**Analista de Dados Júnior**  
-📅 04/2023 — 04/2025
-
-- Extração, validação e conferência de dados educacionais utilizando **TOAD for Oracle**.
-- Apoio na análise e validação de milhares de registros acadêmicos, auxiliando na identificação de inconsistências e melhoria da qualidade dos dados.
-- Geração de relatórios e consultas SQL para apoio à tomada de decisão.
-- Atuação no tratamento de dados sensíveis em conformidade com a **LGPD**.
-- Participação na preparação da base de dados do **SAESE 2024**, garantindo integridade e organização das informações utilizadas no processo avaliativo.
+Consultas SQL em Oracle (TOAD) para validação de dados educacionais, como o Censo Escolar de Sergipe e o SAESE 2024, com foco em integridade dos dados e conformidade com a LGPD.
 
 ---
-
-## 📌 Projetos Relevantes
-
-
-### 🛒 [E-Commerce API](https://github.com/EdsonATB/ecommerce-technical-challenge)
-API REST desenvolvida com Node.js, Express e Prisma, integrada à FakeStore API, utilizando PostgreSQL para persistência de dados.
-
-**Tecnologias utilizadas:**
-- Node.js
-- TypeScript
-- Express
-- Prisma
-- PostgreSQL
-- Docker
-
----
-
-### ✅ [Task Manager WebApp](https://github.com/EdsonATB/todo-app-nodejs)
-Aplicação para gerenciamento de tarefas com autenticação JWT, controle de usuários e persistência em PostgreSQL.
-
-**Tecnologias utilizadas:**
-- Node.js
-- Express
-- Prisma
-- PostgreSQL
-- JWT
-- Docker
-
----
-
-### ⚽ [Pipeline ETL e Análise de Dados FIFA](https://github.com/EdsonATB/Fifa-ETL)
-Pipeline ETL utilizando dados de jogadores da FIFA, realizando extração, tratamento e padronização de dados, carga em banco de dados e criação de dashboards interativos no Power BI para análise de métricas e insights sobre desempenho e valor de mercado dos jogadores.
-
-**Tecnologias utilizadas:**
-- Python
-- Pandas
-- SQL
-- PostgreSQL
-- Power BI
-- ETL
-
----
-
-### 💬 Comment Gauge
-Ferramenta de análise de sentimentos em comentários do YouTube utilizando NLP.
-
-**Tecnologias utilizadas:**
-- Python
-- Streamlit
-- Transformers (Hugging Face)
-- Torch
-- Pandas
-- Matplotlib
-- YouTube Data API
 
 ## 🎓 Formação
 
-### 🎓 Bacharelado em Ciência da Computação
-**Universidade Tiradentes (UNIT)**  
-📅 2021 — 2025
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · Estácio · cursando (previsão: 11/2029)
+- **Bacharelado em Ciência da Computação** · Universidade Tiradentes (UNIT) · 2021 – 2025
+- **Técnico em Desenvolvimento de Sistemas** · SENAI CETAF/AJU-SE · 2018 – 2020
 
-### 🖥️ Técnico em Desenvolvimento de Sistemas
-**SENAI CETAF/AJU-SE**  
-📅 2018 — 2020
-
----
-
-## 🌎 Idiomas
-
-- Português — Nativo
-- Inglês — Avançado (C1)
-- Espanhol — Básico
+🌎 **Idiomas:** Português (nativo) · Inglês (avançado, C1) · Espanhol (básico)
 
 ---
 
 ## 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-augusto-999a7a253/)
-[![Gmail](https://img.shields.io/badge/Gmail-444444?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=edsonaugusto2006@gmail.com&su=Contato%20via%20GitHub)
+[![Gmail](https://img.shields.io/badge/Gmail-444444?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=edsonaugusto2006%40gmail.com&su=Contato%20via%20GitHub)
